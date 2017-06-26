@@ -5,3 +5,5 @@ CalFire is an open-source .NET Portable Class Library for accessing incident dat
 CalFire is an unofficial personal project and is in no way endorsed or associated with CAL FIRE.
 
 **CAL FIRE Website:** http://www.calfire.ca.gov/
+
+Copyright (c) 2015 Jon Thysell
